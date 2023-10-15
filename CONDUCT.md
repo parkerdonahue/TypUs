@@ -28,7 +28,7 @@ Group Meetings will take place on Monday after the end of the project section in
 All members of Typus should be prompt and be ready to discuss at the group meetings. If a member is late or missing, notify the group members ahead of time and provide the reason as to why you are missing as stated earlier in the Code of Conduct. All members should be present though because we are all in the same Project section.
 To encourage and reinforce active listening, all voices of members are heard during the discussion meeting and are free to express their opinions. When speaking with each other, we should respect each other and refrain from using slurs, or any kind of improper language.
 
-## Enforcement/Feedback
+## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable
 behavior may be reported to Calvin, Christian or Vic. All complaints will
