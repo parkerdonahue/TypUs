@@ -56,3 +56,5 @@ This Code of Conduct is adapted but modified from the
 version 2.0, available at
 www.contributor-covenant.org/version/2/0/code_of_conduct.html
 
+## Signatures
+![Alt text](https://github.com/parkerdonahue/TypUs/blob/main/src/Jonathan-Ok.jpg))
