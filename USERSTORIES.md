@@ -18,7 +18,6 @@ Acceptance Criteria:
 
 - User can access and add to friend list
 - User can see friends scores
-- User can see Leaderboard
 
 # User Story 4
 
