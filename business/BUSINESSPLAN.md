@@ -1,5 +1,11 @@
-## TypUS Lean Canvas Model
+## Typus Lean Canvas Model
 This is our [Google Sheet Lean Canvas Business Plan](https://docs.google.com/presentation/d/1R997Jq1Qm0ydhKRStoI50VBnLdWLrP8F3n-R83TFQRA/edit#slide=id.g28fcf514030_0_93)
+
+## The Approach to Typus
+As a group, we wanted to create a fun free to play educational product that can also be competitive with friends or family. The problem we face is that there isn't an outlet where people can prove that they're the best in being the fastest typer. While developing our application, we plan to track WPM and Accuracy while the player is typing in order to show the difference between you and the opposing player. There will also be daily leaderboards at some point possibly in order to see how you face against other players around the world. Other metrics that will be measured are the amount of daily new users and the average active users that uses our product.
+
+Typus will provide a fun and simple challenge that will keep users addicted. Our uniqueness which will be shown through TypUS as it is different since most typing games are on the computer. Our application will solely be mobile based and created in Thunkable.
+
 
 ## Persona Grids
 Persona Name | Demographics | Pain Points | Solutions
