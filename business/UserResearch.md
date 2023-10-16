@@ -9,9 +9,9 @@
   - Team Action:Prevent Typus from being repetitive and keep the style play changing and exciting
 
 - Observation 3
-  - Observation Statement:
-  - Supporting Data:
-  - Team Action:
+  - Observation Statement: Many survey takers are looking for a challenge and for something exciting especially the below average to average people. Higher player weren't that interested in competing and comparing their typing speeds with their friends.
+  - Supporting Data: Survey users with fast typing abilities have shown disinterest in competing with friends while people with below average to average typing speed are interested in comparing typing speeds.
+  - Team Action: Possibly add difficulty levels and show the opposing players typing level in order to see how the user compares with the opposing player.
   
 - Observation 4
   - Observation Statement:
