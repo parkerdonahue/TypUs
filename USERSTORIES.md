@@ -24,8 +24,12 @@ Acceptance Criteria:
 - User can see friends scores
 
 # User Story 4
+As a general Typus user, I want to choose the difficulty level when playing in order to challenge myself and see what skill level I belong to.
 
 Acceptance Criteria:
+
+- User can select the options easy, normal, hard, pro levels
+- User can switch difficulty levels whenever except during the game
 
 # User Story 5
 
