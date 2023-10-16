@@ -1,3 +1,6 @@
+## TypUS Lean Canvas Model
+
+## Persona Grids
 Persona Name | Demographics | Pain Points | Solutions
 -|-|-|-
 Young Teens | <ul><li>Ages: 12 - 17</li> <li>Short Attention Span</li><li>Elementary/Middle/High School Students</li></ul> | <ul><li>High Prices</li> <li>Lack Of Convenience</li> <li>Young Teens are usually on their phones the most considering the age we live in</ul></li> | <ul><li>Make the game accessible by making it free for everyone</li> <li>Prioritize user’s convenience by making it simple</li><li>Possibly make our product an educational app to help the young teens learn and improve their ability to focus on a task for longer periods of time.</ul></li>
