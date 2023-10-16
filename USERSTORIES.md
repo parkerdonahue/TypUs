@@ -12,8 +12,13 @@ Acceptance Criteria:
 Acceptance Criteria:
 
 # User Story 3
+As a general user, I want to be able to add friends so that I can keep up with their scores and see them when I am logged in
 
 Acceptance Criteria:
+
+- User can access and add to friend list
+- User can see friends scores
+- User can see Leaderboard
 
 # User Story 4
 
