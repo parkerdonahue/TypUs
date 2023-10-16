@@ -36,5 +36,10 @@ Acceptance Criteria:
 Acceptance Criteria:
 
 # User Story 6
+As a general Typus user, I want to be able to customize how the app has its content displayed so I can more easily read and enjoy the text on screen.
 
 Acceptance Criteria:
+
+- User can open a settings menu
+- User can change the font, spacing, and text size of the displayed text on the app
+- Accessbiility settings can be saved locally or on the profile
