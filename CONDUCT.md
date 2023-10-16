@@ -60,3 +60,5 @@ www.contributor-covenant.org/version/2/0/code_of_conduct.html
 ![Jonathan's Signature](https://github.com/parkerdonahue/TypUs/blob/main/src/Jonathan-Ok.jpg)
 ![Ryan's Signature](https://github.com/parkerdonahue/TypUs/blob/main/src/Ryan-Tsang.jpg?raw=true)
 ![Ayman's Signature](https://raw.githubusercontent.com/parkerdonahue/TypUs/main/src/Ayman-Sandouk.jpg)
+![signature](https://github.com/parkerdonahue/TypUs/assets/71345069/7c883155-a978-4e3d-9b6f-859dff1c54e4)
+
