@@ -1,5 +1,5 @@
 ## Typus Lean Canvas Model
-This is our [Google Sheet Lean Canvas Business Plan](https://docs.google.com/presentation/d/1R997Jq1Qm0ydhKRStoI50VBnLdWLrP8F3n-R83TFQRA/edit#slide=id.g28fcf514030_0_93)
+In order to help condense our ideas and goals into one place, we have taken advantage of the lean canvas model, which has been documented on their [website](https://www.leancanvas.com/). We have used a variation of the lean canvas model to this end and complied our plan here in the [Google Sheet Lean Canvas Business Plan](https://docs.google.com/presentation/d/1R997Jq1Qm0ydhKRStoI50VBnLdWLrP8F3n-R83TFQRA/edit#slide=id.g28fcf514030_0_93).
 
 ## The Approach to Typus
 As a group, we wanted to create a fun free to play educational product that can also be competitive with friends or family. The problem we face is that there isn't an outlet where people can prove that they're the best in being the fastest typer. While developing our application, we plan to track WPM and Accuracy while the player is typing in order to show the difference between you and the opposing player. There will also be daily leaderboards at some point possibly in order to see how you face against other players around the world. Other metrics that will be measured are the amount of daily new users and the average active users that uses our product.
