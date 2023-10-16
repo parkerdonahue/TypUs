@@ -1,4 +1,5 @@
 ## TypUS Lean Canvas Model
+This is our [Google Sheet Lean Canvas Business Plan](https://docs.google.com/presentation/d/1R997Jq1Qm0ydhKRStoI50VBnLdWLrP8F3n-R83TFQRA/edit#slide=id.g28fcf514030_0_93)
 
 ## Persona Grids
 Persona Name | Demographics | Pain Points | Solutions
