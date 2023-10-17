@@ -1,5 +1,5 @@
 # User Story 1
-As a general Typus user, I want to be given a prompt to type and measure my typing statisics so that I can determine my typing ability and improve.
+As a general TypUs user, I want to be given a prompt to type and measure my typing statisics so that I can determine my typing ability and improve.
 
 Acceptance Criteria:
 
@@ -8,7 +8,7 @@ Acceptance Criteria:
 - User has their statisics shown to them.
   
 # User Story 2
-As a general Typus user, I want to see how I compare to other players so I can see how much more I can improve
+As a general TypUs user, I want to see how I compare to other players so I can see how much more I can improve
 
 Acceptance Criteria:
 
@@ -16,7 +16,7 @@ Acceptance Criteria:
 - User can see the average WPM for a player
 
 # User Story 3
-As a general user, I want to be able to add friends so that I can keep up with their scores and see them when I am logged in
+As a general TypUs user, I want to be able to add friends so that I can keep up with their scores and see them when I am logged in
 
 Acceptance Criteria:
 
@@ -24,7 +24,7 @@ Acceptance Criteria:
 - User can see friends scores
 
 # User Story 4
-As a general Typus user, I want to choose the difficulty level when playing in order to challenge myself and see what skill level I belong to.
+As a general TypUs user, I want to choose the difficulty level when playing in order to challenge myself and see what skill level I belong to.
 
 Acceptance Criteria:
 
@@ -32,11 +32,15 @@ Acceptance Criteria:
 - User can switch difficulty levels whenever except during the game
 
 # User Story 5
+As a genera; TypUs user, I want to be able to practice typing long semi-long reports on my mobile device by having the app read me a long prompt in a select playback speed so I can type as I hear.
 
 Acceptance Criteria:
+- Having an option for long-prompt practice
+- Having a playback button to make the app read the prompt to the user
+- Having a speed button that changes the playback speed to fit the user's ability
 
 # User Story 6
-As a general Typus user, I want to be able to customize how the app has its content displayed so I can more easily read and enjoy the text on screen.
+As a general TypUs user, I want to be able to customize how the app has its content displayed so I can more easily read and enjoy the text on screen.
 
 Acceptance Criteria:
 
