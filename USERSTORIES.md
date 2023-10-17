@@ -54,5 +54,5 @@ As a general Typus user, I want to sign up for an account with my email so I can
 Acceptance Criteria:
 
 - User can sign up for an account with their email
-- Data can stored in a database
+- Data can be stored in a database
 - User can modify, view, and access their account details
