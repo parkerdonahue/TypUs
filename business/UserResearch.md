@@ -14,6 +14,6 @@
   - Team Action: Possibly add difficulty levels and show the opposing players typing level in order to see how the user compares with the opposing player.
   
 - Observation 4
-  - Observation Statement:
-  - Supporting Data:
-  - Team Action:
+  - Observation Statement: People might be interested to play in a typing game like TypUs but they need to be intrigued. 
+  - Supporting Data: More than 50% of the survey takers answered "Somewhat interested".
+  - Team Action: Make the app easy access and easy on the eye. Dont make the UI complicated and visualize the leader board and the levels in a nice way to draw potential users' attention.
