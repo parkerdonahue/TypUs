@@ -1,11 +1,11 @@
 # User Story 1
-As a general Typus user, I want to be given a prompt to type and measure my typing statisics so that I can determine my typing ability and improve.
+As a general Typus user, I want to sign up for an account with my email so I can access a profile that stores my statistics.
 
 Acceptance Criteria:
 
-- User can access app (login optional).
-- User can view and type the given prompt.
-- User has their statisics shown to them.
+- User can sign up for an account with their email
+- Data can be stored in a database
+- User can modify, view, and access their account details
   
 # User Story 2
 As a general Typus user, I want to see how I compare to other players so I can see how much more I can improve
@@ -49,10 +49,10 @@ Acceptance Criteria:
 - Accessbiility settings can be saved locally or on the profile
 
 # User Story 7
-As a general Typus user, I want to sign up for an account with my email so I can access a profile that stores my statistics.
+As a general Typus user, I want to be given a prompt to type and measure my typing statisics so that I can determine my typing ability and improve.
 
 Acceptance Criteria:
 
-- User can sign up for an account with their email
-- Data can be stored in a database
-- User can modify, view, and access their account details
+- User can access app (login optional).
+- User can view and type the given prompt.
+- User has their statisics shown to them.
