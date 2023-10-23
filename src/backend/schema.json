@@ -1,0 +1,14 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "additionalProperties": {
+    "type": "object",
+    "properties": {
+      "average": { "type": "integer" },
+      "fastest": { "type": "integer" },
+      "name": { "type": "string" },
+      "today": { "type": "integer" }
+    },
+    "required": ["average", "fastest", "name", "today"]
+  }
+}
