@@ -1,4 +1,5 @@
 {
+    "id": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -799,7 +800,6 @@
             "name": "sign up or in"
         }
     ],
-    "id": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653",
     "thunkableVersion": 424,
     "name": "Sign up sceen"
 }
