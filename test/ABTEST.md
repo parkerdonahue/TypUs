@@ -1,1 +1,4 @@
-
+A/B Test Name: Customize Content Displayed For Easy Readability
+User Story Number: User Story 6
+Metric (from the HEART grid): Engagement
+Hypothesis: The problem we are trying to solve is whether or not users are engaged with the current display settings as they are not optimal for their reading preferences. This will lead to less engagement, satisfaction, and the time they will spend on the app in which as a group we want to increase all three. One variable I’d like to test is the ability to change font size because if the prompt and user input textbox is bigger, users will be more focused because the readability is clearer therefore making them more engaged and focused.
