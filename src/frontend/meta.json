@@ -112,7 +112,7 @@
             "projectName": "Typus",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Typus",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -156,7 +156,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Typus",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -203,7 +203,95 @@
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
-            "localDataSources": [],
+            "localDataSources": [
+                {
+                    "id": "622dfd8c-27eb-42d5-bb0f-6070d6b289b9",
+                    "dataSource": {
+                        "id": "08e00b9e-4beb-476d-8cd7-d2f755676419",
+                        "name": "Excerpts",
+                        "owner": "64f9e53550fc04bbc1b1c4be",
+                        "collections": [
+                            {
+                                "id": "c89c958a-6f3c-40ba-9c2e-6a7591ba2a7a",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
+                                        "name": "column1",
+                                        "label": "ID",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
+                                        "name": "column2",
+                                        "label": "Excerpt",
+                                        "type": "NUMBER"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "c8f175b7-46db-4d36-992c-168df56d0741",
+                                            "node": {
+                                                "id": "4f8379c0-b394-4c00-80fe-d0ab29833266",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
+                                                        "value": "1"
+                                                    },
+                                                    {
+                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
+                                                        "value": "Under the clear blue sky, children laughed in a colorful park. They played on swings, chasing butterflies. The gentle breeze carried the scent of flowers. Simple joy filled the air as families picnicked, creating cherished memories on a sunny day."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "ef3028d0-bd00-4c92-a2eb-c616af373b46",
+                                            "node": {
+                                                "id": "c3a83878-1c32-42ef-80c7-219625ef7508",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
+                                                        "value": "2"
+                                                    },
+                                                    {
+                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
+                                                        "value": "The old bookstore stood as a time capsule of forgotten stories. Dusty shelves held secrets of bygone eras. The scent of aging paper hung in the air, a sweet nostalgia. Among the classics, I found a hidden gem, a story waiting to be rediscovered in the quiet embrace of history."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "f52627f9-6c0e-460f-9f58-63dc99fba48e",
+                                            "node": {
+                                                "id": "aa0a42c8-e48f-420b-85df-f78fbe2ade17",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
+                                                        "value": "3"
+                                                    },
+                                                    {
+                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
+                                                        "value": "As the rain tapped a soothing rhythm on the roof, I curled up with a cup of tea and a well-worn book. Each page turned was a journey into another world, and the outside world faded into a distant murmur, leaving me enveloped in the magic of literature."
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "56a430de-cb34-4a35-aecd-5555c7a04b6c",
+                            "name": "Excerpts",
+                            "owner": "64f9e53550fc04bbc1b1c4be",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
