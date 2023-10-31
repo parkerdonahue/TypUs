@@ -21,8 +21,8 @@
                     "createdAt": "2023-10-23T02:00:19.205Z",
                     "updatedAt": "2023-10-23T02:00:19.205Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3b3d0ee6a2e3bb405ff?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231029%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231029T235407Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=9a3700c7b0f841653820a733e11a3e330d76fd0c66b8f2afe398a66ec15c8f64bdc31c5723da36f24997c968fcaa9f8eb60bee03f058010b568b4f59f7cf25628fac1101eda60b5a989cbe8bfc4eb06615fd4018fc17547e42be01d0e9888841a4343baf2ce5e06bbb52767928117354f042e075f9a82577307dcb6a9c4ff79363e8e03aaea5ec092d77f553dbbbe187f8c9893d29e5724518b3a1e7eb0b568aede2ead31907e6eb70ca3c0970475c4cac2ce6d6449bed13f8c65c2e14c40b5196bed09291985f30c468ccdecd6ef4c3355b48eb4b32be9ec854651884279935e0d56e92a71442b701c275c07cd882d20ab994d365ed6d9c089af72ec361cca5",
-                    "signedUrlExpirationTime": 1698796447640
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3b3d0ee6a2e3bb405ff?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T014636Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=414f02e65ad0f184818abbeda03487dd02ea574e2ef5496e60bbc6d58431f658a99c6f32f6cc51b365496ef1a959efd0c04bebc0fcb437f97aeed0dd49be9450114454bc56846d3f16a23f57f2b3ac17b83de5ecd1d21cc96884642425d1624a904a800a218d162246a455feaeb2908e10b3ac560e88a79331bb0a531cf9322409e3aa02df3c43f77d949d689ca30e8008e7568b8f4650064d6f9fd3f6e3c62d25e929dc22ef796408c799d217538811f70e613ae1f2a2203d67e2c9bb39625872fd811486da9c15044ec98ac99d033ed94939f77d4f4d7b912e8ace8422f8c1cc806e549076c71782a8ae9d40f1e0423f3f8192eb5204893ddcbecc94cdd470",
+                    "signedUrlExpirationTime": 1698889596492
                 },
                 "6535d3d7641adee2303e7e0e": {
                     "externalStorageType": "GCS",
@@ -37,8 +37,8 @@
                     "createdAt": "2023-10-23T02:00:55.296Z",
                     "updatedAt": "2023-10-23T02:00:55.296Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3d7641adee2303e7e0e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231029%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231029T235407Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=58f3cec2272b7b54ff7e8b032de26ab9eac82bcfec68f079b18f770556f321268d98f6a391575f63fd0d64e2313cf33e0b162c2a9eb7f7c67dca1c533fab065741698fbfead1b0613b2d993c25898c19f37d224e1354bf76bf06f65f63620f732aae83b4b73bdc7c140eb53fc7370dec8ed5909e75ade8688a271ea5690b1641b4fade82c5850162349695f32c6b4c5400ee47306073fa13154e625b7efc1ee6216355d6c3529624b64193469f39262d3a2b13f09717c134e098a99dc013459cc8c2d96fad229677b630ae0e6e8463ab960340fd277227cb4a7a22fc153e2097421c8fd2d30713c729143e6cd66fb3f21ab68436e66ae4f211d62b637633207d",
-                    "signedUrlExpirationTime": 1698796447643
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3d7641adee2303e7e0e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T014636Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=69d445405d5d43cda1e0450dcc0e7642cf9dde1cf12a46ef0aaad700c606875ad6ddf37833ccfcd0e8325018166562ea4597b5336313e233cc7f653bbc34ebf9db0005e6342a3de0d2acff3f82c96aa86c6983488163f4389e4b81aee1c0a71f8798c00b166a5134a9c79951d8352efc773a50465d55eda54198d7e6b333028bef5bdab940f6be9440a81f625a87a309d323a4ab4b276695b2ed128b1c16841e2169951b1cac0609f8954bd4b6ceac4f7124c4ef14299d389e2b174fa66c39f93ef838d90ee0623a49dd1ccb63cf477d779483c375d2295259111c903e4cbd7298094ef2cc7d82974cbfbd90656f0be15f822e8341b478d53d1db6be5012260d",
+                    "signedUrlExpirationTime": 1698889596495
                 },
                 "6535d412ee33875410946e67": {
                     "externalStorageType": "GCS",
@@ -53,8 +53,8 @@
                     "createdAt": "2023-10-23T02:01:54.450Z",
                     "updatedAt": "2023-10-23T02:01:54.450Z",
                     "__v": 0,
-                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d412ee33875410946e67?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231029%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231029T235407Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=86c323c70c90425df4068baefabd59f47bd1c495251d9a51cd729d407966f94a039dcc5331c644f9c475fc5c1ee02cbe9aa1cbdb184b14c346524c3d7d6ed25a467650e676677ec01ac028a6bb576367decdbbba66dac557beac1d84ce20efc86a18abece3260d1001b85d9a84b886ee8da3bca2790e634e6ac25c2c2c09c3aee6f0f569e83185ea30c6b86a8f2f9b28ccf6008244f20b3d2268966bab0d3c6b33c80a664ed9292c8174e8ac5d89a1f0df4418a904084215f09ab84583cd2783a607b9f5f884366b3ccb1b8d40a612f6e7d204d49835ded989bad896755330ac46e04bb0bee71a8afb05ab3f9da58e61b14f7da06e0fbd5179c1a60343326a30",
-                    "signedUrlExpirationTime": 1698796447644
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d412ee33875410946e67?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231031%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231031T014636Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=717c08b33fd459228612711ed9ca3f058314e1021a5f4ea80c213838bd4c3dfbd446759852a5dce82338ef04401ef0fdba997257af7a9bc275182970a8628eb2121d2d4ff762cf5b2d06e871bd2b994aa8b10de05cb05f3222fa74fbd0d0ee469bda50cfc9915c3e1855ea2ee08c4002bb3d9fb1cc3f0d99ec12c7af96bf395870019ee66b17253a29b364c5b2fde0f28427498551648d33100d6d970c073e2d3a8a355bd56fd406f90de83e8cc18484c26dd2a99c1a3176893f626c33365da80cc596f37efe5df8c85b9ea5584d69ffdc9832af12cdc33308b56bc6bd92231ac3506085b30ef458aa2878d601e82f5b958b1536c4957517e7abaebff34d2442",
+                    "signedUrlExpirationTime": 1698889596497
                 }
             },
             "backendUpgradeVersion": 23,
@@ -112,7 +112,7 @@
             "projectName": "Typus",
             "settings": {
                 "teamId": null,
-                "appName": "Typus",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -156,7 +156,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": "Typus",
+                "appName": null,
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -203,95 +203,7 @@
             "hasPushNotification": false,
             "hasAssistant": null,
             "dataSourceLinks": [],
-            "localDataSources": [
-                {
-                    "id": "622dfd8c-27eb-42d5-bb0f-6070d6b289b9",
-                    "dataSource": {
-                        "id": "08e00b9e-4beb-476d-8cd7-d2f755676419",
-                        "name": "Excerpts",
-                        "owner": "64f9e53550fc04bbc1b1c4be",
-                        "collections": [
-                            {
-                                "id": "c89c958a-6f3c-40ba-9c2e-6a7591ba2a7a",
-                                "name": "Table 1",
-                                "label": "Table 1",
-                                "fields": [
-                                    {
-                                        "id": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
-                                        "name": "column1",
-                                        "label": "ID",
-                                        "type": "STRING"
-                                    },
-                                    {
-                                        "id": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
-                                        "name": "column2",
-                                        "label": "Excerpt",
-                                        "type": "NUMBER"
-                                    }
-                                ],
-                                "data": {
-                                    "edges": [
-                                        {
-                                            "cursor": "c8f175b7-46db-4d36-992c-168df56d0741",
-                                            "node": {
-                                                "id": "4f8379c0-b394-4c00-80fe-d0ab29833266",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
-                                                        "value": "1"
-                                                    },
-                                                    {
-                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
-                                                        "value": "Under the clear blue sky, children laughed in a colorful park. They played on swings, chasing butterflies. The gentle breeze carried the scent of flowers. Simple joy filled the air as families picnicked, creating cherished memories on a sunny day."
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "cursor": "ef3028d0-bd00-4c92-a2eb-c616af373b46",
-                                            "node": {
-                                                "id": "c3a83878-1c32-42ef-80c7-219625ef7508",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
-                                                        "value": "2"
-                                                    },
-                                                    {
-                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
-                                                        "value": "The old bookstore stood as a time capsule of forgotten stories. Dusty shelves held secrets of bygone eras. The scent of aging paper hung in the air, a sweet nostalgia. Among the classics, I found a hidden gem, a story waiting to be rediscovered in the quiet embrace of history."
-                                                    }
-                                                ]
-                                            }
-                                        },
-                                        {
-                                            "cursor": "f52627f9-6c0e-460f-9f58-63dc99fba48e",
-                                            "node": {
-                                                "id": "aa0a42c8-e48f-420b-85df-f78fbe2ade17",
-                                                "values": [
-                                                    {
-                                                        "fieldId": "0ec48bb9-1b1d-4862-9736-9db0cc3a1d4e",
-                                                        "value": "3"
-                                                    },
-                                                    {
-                                                        "fieldId": "46a81783-0d08-4cd9-b1ce-0c55212a4a70",
-                                                        "value": "As the rain tapped a soothing rhythm on the roof, I curled up with a cup of tea and a well-worn book. Each page turned was a journey into another world, and the outside world faded into a distant murmur, leaving me enveloped in the magic of literature."
-                                                    }
-                                                ]
-                                            }
-                                        }
-                                    ]
-                                }
-                            }
-                        ],
-                        "configuration": {
-                            "id": "56a430de-cb34-4a35-aecd-5555c7a04b6c",
-                            "name": "Excerpts",
-                            "owner": "64f9e53550fc04bbc1b1c4be",
-                            "type": "LOCAL"
-                        }
-                    }
-                }
-            ],
+            "localDataSources": [],
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
@@ -322,6 +234,11 @@
                 "ea1e84a4-abce-448d-ba26-bf4296850c48": {
                     "scope": "APP",
                     "name": "session email",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "da2fa2e3-8d63-4b3c-8771-a3f09ca875b5": {
+                    "scope": "STORED",
+                    "name": "guestID",
                     "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
                 }
             },
