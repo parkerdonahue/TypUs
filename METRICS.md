@@ -1,2 +1,4 @@
 ![google HEART grid for Typus](https://github.com/parkerdonahue/TypUs/blob/27-METRICS/src/Screenshot%202023-10-30%20132816.png)
 
+- Increase in user count: This can be tracked using Google Analytics through the user count feature. If more people are using the app, then a possible conclusion is that people are enjoying it.
+- Daily prompt completion rate: This can be tracked by comparing the amount of daily prompt completions with the total amount of users in Google Analytics. An event could be made that records whenever a user completes their daily prompt, so this can then be used to determine how engaged the userbase is. If a there is a good number of people (20-30%) who try out the app and keep coming back for their daily prompt, they have found the app to be a decent way to spend their time.
