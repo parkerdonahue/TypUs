@@ -14,10 +14,10 @@
                                 "TimeInMilliseconds": 3000,
                                 "IntervalMilliseconds": 3000,
                                 "Interval": {
-                                    "time": 5,
+                                    "time": "999999999999999999999",
                                     "timePeriod": "SECONDS"
                                 },
-                                "CountUp": false,
+                                "CountUp": true,
                                 "Loops": false,
                                 "Enabled": false
                             },
