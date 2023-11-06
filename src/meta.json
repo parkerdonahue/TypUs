@@ -1,0 +1,349 @@
+{
+    "data": {
+        "project": {
+            "apiComponents": {
+                "ApiContainer": {
+                    "id": "ApiContainer",
+                    "children": [
+                        {
+                            "type": "Timer",
+                            "translatedName": "Timer",
+                            "isApi": true,
+                            "properties": {
+                                "TimeInSeconds": 3000,
+                                "TimeInMilliseconds": 3000,
+                                "IntervalMilliseconds": 3000,
+                                "Interval": {
+                                    "time": "999999999999999999999",
+                                    "timePeriod": "SECONDS"
+                                },
+                                "CountUp": true,
+                                "Loops": false,
+                                "Enabled": false
+                            },
+                            "children": [],
+                            "id": "b7f3f742-6f2e-45f1-bc74-e90f3c439217",
+                            "thunkableVersion": 428,
+                            "name": "type-time"
+                        }
+                    ]
+                }
+            },
+            "assets": {
+                "6535d3b3d0ee6a2e3bb405ff": {
+                    "externalStorageType": "GCS",
+                    "_id": "6535d3b3d0ee6a2e3bb405ff",
+                    "size": "83334",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "logo-white.png",
+                    "backendURI": "/project/6531514cd6e7169136105748/getasset/6535d3b3d0ee6a2e3bb405ff",
+                    "name": "logo-white.png",
+                    "externalName": "users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3b3d0ee6a2e3bb405ff",
+                    "createdAt": "2023-10-23T02:00:19.205Z",
+                    "updatedAt": "2023-10-23T02:00:19.205Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3b3d0ee6a2e3bb405ff?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T141957Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=84499e9411550d3468abc00307a8e3138fbc4adb1c2d251e9e399831202c297300f55476ae41bc5b20b5c66d2d00a6e866786e22b1710dea60c74802bdce2d13903014e851f560e8b051fa5bdc36ba5007c4702457a1efff7733334fec82a6d18682e04d5e0f5d58b6948c07daccd2df7f114dda4b176d666b026a43dcd0b939c6d737321ddbfc9bec128e073df1366640fac927106f77ac6e563c1fff22f5633d006bef7ddf55c73f011fcec9c945464d809d1b7f2bd51c7aaba974f5b30aefb0c70b91f411a1cad93a5ec902d899dceabdad7f7feb6c8cc65e7bc6c7f8aaf93465fa95bebfec3d4469b4d537fc46c2de9cf9a9ed12f0330a392a82c1dfb938",
+                    "signedUrlExpirationTime": 1699453197165
+                },
+                "6535d3d7641adee2303e7e0e": {
+                    "externalStorageType": "GCS",
+                    "_id": "6535d3d7641adee2303e7e0e",
+                    "size": "249539",
+                    "mimetype": "application/x-zip-compressed",
+                    "encoding": "7bit",
+                    "originalname": "typus-logo-zip-file.zip",
+                    "backendURI": "/project/6531514cd6e7169136105748/getasset/6535d3d7641adee2303e7e0e",
+                    "name": "typus-logo-zip-file.zip",
+                    "externalName": "users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3d7641adee2303e7e0e",
+                    "createdAt": "2023-10-23T02:00:55.296Z",
+                    "updatedAt": "2023-10-23T02:00:55.296Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d3d7641adee2303e7e0e?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T141957Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=a01e063871dc98927f60c0da8f9b4b8a7fa798c4e2d3382e10a192fbc4f847484880be14d0ac6e54fe9cb27b794dba855ea153b78f1131230e59436c822ee466b661d022c158918f2893e3b3026edcf27474d76a6fd6db50691583c52e3b49f4ce3e398b72ac5a2b7c7e564162524b80927eae57c8ce347342f5887bf8c2c5ce7afceb6b60d0971a59f686d12f2acc120b4220699ffb6ea6bc495bd1f9b89c3271a0f8f943c30c82a3f846564719fe1aae069ec108b2cb8e42fedfac057172ee41edc40858020be7ad0a052f0d96158c9ade876322a6fa363c8b6ec63eba779ffda6d5b7df134a14bd73d89bc4be2902b98717aacd66834bda6ff7272d5f91bc",
+                    "signedUrlExpirationTime": 1699453197167
+                },
+                "6535d412ee33875410946e67": {
+                    "externalStorageType": "GCS",
+                    "_id": "6535d412ee33875410946e67",
+                    "size": "49923",
+                    "mimetype": "image/png",
+                    "encoding": "7bit",
+                    "originalname": "logo-color.png",
+                    "backendURI": "/project/6531514cd6e7169136105748/getasset/6535d412ee33875410946e67",
+                    "name": "logo-color.png",
+                    "externalName": "users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d412ee33875410946e67",
+                    "createdAt": "2023-10-23T02:01:54.450Z",
+                    "updatedAt": "2023-10-23T02:01:54.450Z",
+                    "__v": 0,
+                    "signedUrl": "https://storage.googleapis.com/thunkable-x-production/users/64f9e5059e1206472303a589/projects/6531514cd6e7169136105748/assets/6535d412ee33875410946e67?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=thunkable-ios%40thunkable-ios.iam.gserviceaccount.com%2F20231106%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20231106T141957Z&X-Goog-Expires=172800&X-Goog-SignedHeaders=host&X-Goog-Signature=866420baa065a6667d64c152824bbdc778488ebb0f6bfe3d046fc40af3dbc98561042332ff6b262d0bd93223814b12a0c70f087ddd6c41e76fa8830d54f557b0fbe29f2d73b507c9ee85f71619ecb015a3c42c675fe1580d7d19d0827f6fdc7be1671c04b52cc6f14176ae98b658954c3871a454600a32ca5200d100c8b70f64219b63d6ee352533090b8efae0a07aeb83e027492f7dbb2a712473f943493a0a73d77a63fc2c923235227ebcb287f06f5f0c46555934a0fcfda1a6b18980527b19d3bdfae2b2f154956e31dc6c77330ddaceec99345fbd5630867b940955aa7c0e414da910a1cc0ce14c7ec17f89c9f25bfce49a4d089536c6fd11bbdd638a5e",
+                    "signedUrlExpirationTime": 1699453197169
+                }
+            },
+            "backendUpgradeVersion": 23,
+            "blockly": {
+                "a521dbaf-55fa-4a1c-92ff-b290b2f5c653": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "a4aa2253-f4ed-43e1-9218-be617dbafa58": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                },
+                "98c84839-ddd0-4235-8a2a-e162b0c19259": {
+                    "xml": "",
+                    "permissions": {
+                        "android": [],
+                        "ios": []
+                    },
+                    "enabledFeatures": {
+                        "iap": false
+                    }
+                }
+            },
+            "categories": [
+                "Education"
+            ],
+            "components": {
+                "children": [
+                    {
+                        "id": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                    },
+                    {
+                        "id": "a4aa2253-f4ed-43e1-9218-be617dbafa58"
+                    },
+                    {
+                        "id": "98c84839-ddd0-4235-8a2a-e162b0c19259"
+                    }
+                ]
+            },
+            "figmaComponents": {},
+            "description": null,
+            "icon": null,
+            "projectName": "Typus",
+            "settings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyDZOZ8CgjyvZb8nQB9jQpWjRcb6vaLcu7s",
+                "firebaseDatabaseURL": "https://typus-csc305-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "projectSettings": {
+                "teamId": null,
+                "appName": null,
+                "icon": null,
+                "autoIncrementVersion": true,
+                "ignoreNotchArea": false,
+                "notchAreaColor": null,
+                "androidVersionName": "1",
+                "androidVersionCode": 1,
+                "iosVersionNumber": "1",
+                "iosBuildNumber": "1",
+                "firebaseAPIKey": "AIzaSyDZOZ8CgjyvZb8nQB9jQpWjRcb6vaLcu7s",
+                "firebaseDatabaseURL": "https://typus-csc305-default-rtdb.firebaseio.com",
+                "stripePublishableKeyTest": null,
+                "stripePublishableKeyLive": null,
+                "stripeAccountId": null,
+                "stripeTestMode": true,
+                "isPublic": true,
+                "description": null,
+                "mobileTutorial": null,
+                "pushNotificationAndroidAppId": null,
+                "pushNotificationIOSAppId": null,
+                "pushNotificationGeolocationEnabled": null,
+                "yandexAPIKey": null,
+                "imageRecognizerServerURL": null,
+                "imageRecognizerSubscriptionKey": null,
+                "cloudName": null,
+                "cloudinaryAPIKey": null,
+                "cloudinaryAPISecret": null,
+                "permissions": {
+                    "ios": {}
+                },
+                "googleMapAPIKeyAndroid": null,
+                "googleMapAPIKeyIOS": null,
+                "googleOAuthiOSClientID": null,
+                "googleOAuthiOSURLScheme": null,
+                "googleOAuthWebClientID": null,
+                "appleOAuthWebClientID": null,
+                "appleOAuthWebRedirectURI": null,
+                "admobAppIdIOS": null,
+                "admobAppIdAndroid": null,
+                "admobUserTrackingUsageDescription": null,
+                "__typename": "ProjectSettings"
+            },
+            "hasAdmob": false,
+            "hasBluetoothLowEnergy": null,
+            "hasPushNotification": false,
+            "hasAssistant": null,
+            "dataSourceLinks": [],
+            "localDataSources": [
+                {
+                    "id": "5f41b136-d6c8-4a5b-87e6-9954171ad96e",
+                    "dataSource": {
+                        "id": "d9e831e4-c69a-429e-a833-bff01429299c",
+                        "name": "Prompts",
+                        "owner": "64f9e53550fc04bbc1b1c4be",
+                        "collections": [
+                            {
+                                "id": "e7decee5-4a5d-446e-8877-85378a9ed948",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "2e5f6766-f6bb-465f-8ac1-7b3bc0f4b649",
+                                        "name": "column1",
+                                        "label": "Excerpt",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "6e754e25-98d2-4e0d-8f51-8112930aa808",
+                                            "node": {
+                                                "id": "6aff9c24-6c3a-45d7-8d23-d35bc15240b0",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "2e5f6766-f6bb-465f-8ac1-7b3bc0f4b649",
+                                                        "value": "Under the clear blue sky, children laughed in a colorful park. They played on swings, chasing butterflies. The gentle breeze carried the scent of flowers. Simple joy filled the air as families picnicked, creating cherished memories on a sunny day."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "aac2ca28-4c68-4085-b2cc-1c952a1fd0b0",
+                                            "node": {
+                                                "id": "7130ec3a-a812-4ab8-95cb-31f4e51d6dd1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "2e5f6766-f6bb-465f-8ac1-7b3bc0f4b649",
+                                                        "value": "The old bookstore stood as a time capsule of forgotten stories. Dusty shelves held secrets of bygone eras. The scent of aging paper hung in the air, a sweet nostalgia. Among the classics, I found a hidden gem, a story waiting to be rediscovered in the quiet embrace of history."
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "4f2e9408-ba0e-4348-aa04-d6ae8eae8c18",
+                                            "node": {
+                                                "id": "2b9f8155-fe1a-41e5-9829-a05f76e9add1",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "2e5f6766-f6bb-465f-8ac1-7b3bc0f4b649",
+                                                        "value": "As the rain tapped a soothing rhythm on the roof, I curled up with a cup of tea and a well-worn book. Each page turned was a journey into another world, and the outside world faded into a distant murmur, leaving me enveloped in the magic of literature."
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "486891c8-8f29-41d2-ad0b-faba440bac0e",
+                            "name": "Prompts",
+                            "owner": "64f9e53550fc04bbc1b1c4be",
+                            "type": "LOCAL"
+                        }
+                    }
+                }
+            ],
+            "customProperties": [],
+            "modules": [],
+            "usesDragDropUi": true,
+            "totalCopy": "0",
+            "totalStar": "0",
+            "starAction": "star",
+            "variables": {
+                "132864ea-320b-44bb-9b83-28177b4dc2fc": {
+                    "scope": "APP",
+                    "name": "currentSignUp",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "65c657c4-963e-4b1f-8ad2-05811632d3f1": {
+                    "scope": "STORED",
+                    "name": "email",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "c330c71a-7854-4fd5-9c7e-f27e10bd060b": {
+                    "scope": "STORED",
+                    "name": "password",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "95aaa81c-290e-4fd0-82c0-2a41e24a2ea9": {
+                    "scope": "APP",
+                    "name": "userID",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "ea1e84a4-abce-448d-ba26-bf4296850c48": {
+                    "scope": "APP",
+                    "name": "session email",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "da2fa2e3-8d63-4b3c-8771-a3f09ca875b5": {
+                    "scope": "STORED",
+                    "name": "guestID",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                },
+                "35ecb0b2-29db-4309-b48a-652d84f1f941": {
+                    "scope": "APP",
+                    "name": "played",
+                    "screenId": "a521dbaf-55fa-4a1c-92ff-b290b2f5c653"
+                }
+            },
+            "defaultDesignerDevice": "PHONE",
+            "defaultDesignerOrientation": "PORTRAIT",
+            "schemaVersion": 2,
+            "organization": null,
+            "__typename": "Project"
+        }
+    }
+}
