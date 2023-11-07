@@ -6,4 +6,6 @@
 
 [Link to Google Slides](https://docs.google.com/presentation/d/1LCCKh5l9Cvbjur5kVKiyi-cF5dWWzBbCLTKVx2_lpZA/edit#slide=id.g297f2c27d3a_0_1)
 
-## Test Cases User Story
+## Test Cases User Story 2
+
+[Link to Google Slides](https://docs.google.com/presentation/d/1g7ahTicvDUdwpINiGLBMhFCIQClysEl8pmgMxWxEfUQ/edit?usp=sharing)
