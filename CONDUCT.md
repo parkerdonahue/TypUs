@@ -1,6 +1,6 @@
 ## CSC305 Typus Group Code Of Conduct
 
-## Our Pledge
+# Our Pledge
 
 We as a group pledge to make
 participation in our community a harassment-free experience for
