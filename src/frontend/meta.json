@@ -10,7 +10,9 @@
                             "translatedName": "Web API",
                             "isApi": true,
                             "reactType": "Web",
-                            "properties": {},
+                            "properties": {
+                                "URL": "https://us-central1-typus-csc305.cloudfunctions.net/calculateLevenshtein"
+                            },
                             "children": [],
                             "id": "88aaf3a4-0e5b-4dcd-84f4-0260e3e196c9",
                             "thunkableVersion": 432,
