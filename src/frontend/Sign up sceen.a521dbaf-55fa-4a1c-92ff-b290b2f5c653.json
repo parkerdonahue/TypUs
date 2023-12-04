@@ -385,8 +385,8 @@
             "type": "Image",
             "translatedName": "Image",
             "properties": {
-                "Picture": "logo-color.png",
-                "resizeMode": "stretch",
+                "Picture": "logo-no-background.png",
+                "resizeMode": "contain",
                 "Height": 195,
                 "Width": 293,
                 "Visible": true,
