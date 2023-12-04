@@ -163,7 +163,7 @@
             "projectName": "Typus",
             "settings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Typus",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
@@ -207,7 +207,7 @@
             },
             "projectSettings": {
                 "teamId": null,
-                "appName": null,
+                "appName": "Typus",
                 "icon": null,
                 "autoIncrementVersion": true,
                 "ignoreNotchArea": false,
