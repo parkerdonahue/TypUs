@@ -139,7 +139,9 @@
                     "enabledFeatures": {
                         "iap": false
                     }
-                }
+                },
+                "05cb994e-04bb-4382-8b88-046e9ce250f6": {},
+                "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4": {}
             },
             "categories": [
                 "Education"

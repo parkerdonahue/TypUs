@@ -1,4 +1,5 @@
 {
+    "id": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4",
     "type": "Screen",
     "translatedName": "Screen",
     "reactType": "ViewWithProps",
@@ -108,7 +109,6 @@
             "name": "to-profile-button"
         }
     ],
-    "id": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4",
     "thunkableVersion": 435,
     "name": "Leaderboard"
 }
