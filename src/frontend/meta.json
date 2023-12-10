@@ -6,6 +6,27 @@
                     "id": "ApiContainer",
                     "children": [
                         {
+                            "type": "Timer",
+                            "translatedName": "Timer",
+                            "isApi": true,
+                            "properties": {
+                                "TimeInSeconds": 3000,
+                                "TimeInMilliseconds": 3000,
+                                "IntervalMilliseconds": 3000,
+                                "Interval": {
+                                    "time": "1",
+                                    "timePeriod": "SECONDS"
+                                },
+                                "CountUp": false,
+                                "Loops": true,
+                                "Enabled": false
+                            },
+                            "children": [],
+                            "id": "876e10a6-8984-488a-8eaa-ccdf6cad106c",
+                            "thunkableVersion": 435,
+                            "name": "Countdown timer"
+                        },
+                        {
                             "type": "Web API",
                             "translatedName": "Web API",
                             "isApi": true,
