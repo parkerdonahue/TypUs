@@ -127,7 +127,7 @@
             "type": "Button",
             "translatedName": "Button",
             "properties": {
-                "Text": "Sign out",
+                "Text": "Leaderboard",
                 "TextColor": "#FFFFFF",
                 "FontSize": 16,
                 "CustomFont": "",
@@ -174,7 +174,7 @@
             "children": [],
             "id": "9ec117db-9e12-4988-8ec6-8e84b1392a17",
             "thunkableVersion": 435,
-            "name": "sign-out-button"
+            "name": "leaderboardbutton"
         },
         {
             "type": "Button",
