@@ -414,6 +414,129 @@
                             "type": "LOCAL"
                         }
                     }
+                },
+                {
+                    "id": "07a2d724-206e-4653-8820-1c0f58ebf800",
+                    "dataSource": {
+                        "id": "d00821bf-6a02-4492-aa30-ab4ead7e1602",
+                        "name": "leaderboard",
+                        "owner": "64f9e5059e1206472303a589",
+                        "collections": [
+                            {
+                                "id": "76571d6d-381b-4897-aff2-ebdc8947b243",
+                                "name": "Table 1",
+                                "label": "Table 1",
+                                "fields": [
+                                    {
+                                        "id": "88057018-04a6-4abb-ad31-d297c605397a",
+                                        "name": "column1",
+                                        "label": "Rank",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "db6d6fbe-5cb4-469f-9b37-93595a85667b",
+                                        "name": "column2",
+                                        "label": "Name",
+                                        "type": "NUMBER"
+                                    },
+                                    {
+                                        "id": "e833735e-a405-47b8-8040-abeb3e57ab6e",
+                                        "label": "Score",
+                                        "name": "Score",
+                                        "type": "STRING"
+                                    },
+                                    {
+                                        "id": "72edad87-cf9e-439b-a6a1-341fbf3f5e71",
+                                        "label": "WPM",
+                                        "name": "WPM",
+                                        "type": "STRING"
+                                    }
+                                ],
+                                "data": {
+                                    "edges": [
+                                        {
+                                            "cursor": "6c7c6017-da00-4ad2-a7b4-39006ff053ef",
+                                            "node": {
+                                                "id": "adcd8c75-7f7e-4716-8f02-9184ed126710",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "88057018-04a6-4abb-ad31-d297c605397a",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "db6d6fbe-5cb4-469f-9b37-93595a85667b",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "e833735e-a405-47b8-8040-abeb3e57ab6e",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "72edad87-cf9e-439b-a6a1-341fbf3f5e71",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "807d40e1-866d-489a-b8e6-6c0e243c98cf",
+                                            "node": {
+                                                "id": "d40b5d1e-44f7-4e70-8bed-7d1246699d4f",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "88057018-04a6-4abb-ad31-d297c605397a",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "db6d6fbe-5cb4-469f-9b37-93595a85667b",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "e833735e-a405-47b8-8040-abeb3e57ab6e",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "72edad87-cf9e-439b-a6a1-341fbf3f5e71",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        },
+                                        {
+                                            "cursor": "9afa818a-b984-4dc9-9356-4dee88ef27ed",
+                                            "node": {
+                                                "id": "a855d965-40a9-4847-b058-7e23a45d9562",
+                                                "values": [
+                                                    {
+                                                        "fieldId": "88057018-04a6-4abb-ad31-d297c605397a",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "db6d6fbe-5cb4-469f-9b37-93595a85667b",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "e833735e-a405-47b8-8040-abeb3e57ab6e",
+                                                        "value": ""
+                                                    },
+                                                    {
+                                                        "fieldId": "72edad87-cf9e-439b-a6a1-341fbf3f5e71",
+                                                        "value": ""
+                                                    }
+                                                ]
+                                            }
+                                        }
+                                    ]
+                                }
+                            }
+                        ],
+                        "configuration": {
+                            "id": "3abe35c6-8421-499f-95c4-b7ef302474c9",
+                            "name": "leaderboard",
+                            "owner": "64f9e5059e1206472303a589",
+                            "type": "LOCAL"
+                        }
+                    }
                 }
             ],
             "customProperties": [],
@@ -482,6 +605,21 @@
                     "scope": "APP",
                     "name": "result",
                     "screenId": "98c84839-ddd0-4235-8a2a-e162b0c19259"
+                },
+                "e1f6a1e3-7ab3-41aa-b612-d13a328a8d5f": {
+                    "scope": "APP",
+                    "name": "jsonText",
+                    "screenId": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4"
+                },
+                "88770081-8c20-41ed-b8e0-97a98f462fbd": {
+                    "scope": "APP",
+                    "name": "jsonObject",
+                    "screenId": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4"
+                },
+                "13223adc-1f6a-4955-ad5b-3290a029df86": {
+                    "scope": "APP",
+                    "name": "index",
+                    "screenId": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4"
                 }
             },
             "defaultDesignerDevice": "PHONE",
