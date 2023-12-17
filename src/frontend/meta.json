@@ -542,7 +542,7 @@
             "customProperties": [],
             "modules": [],
             "usesDragDropUi": true,
-            "totalCopy": "0",
+            "totalCopy": "1",
             "totalStar": "0",
             "starAction": "star",
             "variables": {
@@ -605,16 +605,6 @@
                     "scope": "APP",
                     "name": "result",
                     "screenId": "98c84839-ddd0-4235-8a2a-e162b0c19259"
-                },
-                "e1f6a1e3-7ab3-41aa-b612-d13a328a8d5f": {
-                    "scope": "APP",
-                    "name": "jsonText",
-                    "screenId": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4"
-                },
-                "88770081-8c20-41ed-b8e0-97a98f462fbd": {
-                    "scope": "APP",
-                    "name": "jsonObject",
-                    "screenId": "b7f590dd-b2b5-4eb3-975a-aaa560ce16f4"
                 },
                 "13223adc-1f6a-4955-ad5b-3290a029df86": {
                     "scope": "APP",
