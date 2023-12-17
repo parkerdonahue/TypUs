@@ -34,8 +34,40 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 20vh;
+        height: 25vh;
         width: 100vw;
+      }
+
+      #home {
+        font-size: 8em;
+        background-color: #18191f;
+        color: #fff;
+        box-shadow: 2px 2px #00000080, 10px 1px 12px #00000080,
+        2px 2px 10px #00000080, 2px 2px 3px #00000080, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #00000080, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #00000080;
+        border-radius: 29px;
+        padding: 11px 19px;
+        margin:0 40px;
+        animation: animate 3s linear infinite;
+        text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff,0 0 150px #0072ff, 0 0 200px #0072ff;
+        animation-delay: 0.1s;
+      }
+
+      #question {
+        font-size: 8em;
+        background-color: #18191f;
+        color: #fff;
+        box-shadow: 2px 2px #00000080, 10px 1px 12px #00000080,
+        2px 2px 10px #00000080, 2px 2px 3px #00000080, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #00000080, inset 2px 2px 10px #00000080,
+        inset 2px 2px 10px #00000080;
+        border-radius:29px;
+        padding: 11px 35px;
+        margin:0 40px;
+        animation: animate 3s linear infinite;
+        text-shadow: 0 0 50px #0072ff, 0 0 100px #0072ff,0 0 150px #0072ff, 0 0 200px #0072ff;
+        animation-delay: 0.1s;
       }
 
       #github {
@@ -80,12 +112,19 @@
           animation-delay: 0.1s;
         }
 
+      #div1 {
+        margin: 40px;
+        text-align: center;
+        width: 50%;
+        color: #fff;
+      }
+
       #div2 {
         margin: 40px;
         text-align: center;
         width: 50%;
         color: #fff;
-        
+        word-spacing: 1px;
       }
 
       iframe {
@@ -97,22 +136,43 @@
       
       
     </style>
-    
   </head>
 
   <body>
     <div class="container">
       <img src="typus.png" id="typusLogo" alt="Typus Logo">
+      <a href="https://parkerdonahue.github.io/TypUs">
+        <i class="fa fa-home" id="home"></i></i>
+      </a>
+      <a href="https://parkerdonahue.github.io/TypUs/about.html">
+        <i class="fa fa-question" id="question"></i>
+      </a>
       <a href="https://github.com/parkerdonahue/TypUs" target="_blank">
         <i class="fa fa-github-square" id="github"></i>
       </a>
     </div>
     
-    <div id="div2">
+    <div id="div1">
         <p> Have  you heard of the game wordle?<br></br></p>
         <p>Well, Typus is wordle with typing!<br> 
-        There are pre-existing typing games on mobile, but none of them present themselves as a simple and fun challenge that you keep coming back to like ours!</p>
+        There are pre-existing typing games on mobile, but none of them present themselves as a simple and fun challenge that you keep coming back to like ours! 
+        </p>
       </div>
+
+    <div id="div2">
+        <h2>Instructions for Typus</h2>
+        <ol> 
+          <li>Sign up to create an account with us or you can use our optional free play button</li>
+          <li>Signing in will then lead you to your very own profile page!</li>
+          <li>Then, all you will have to do is click on play!</li>
+          <li>A prompt will appear, and you will have to write the same prompt as fast as possible</li>
+          <li>Finally, once the prompt is completed then your statistics will be displayed showing your Score, Accuracy, and WPM</li>
+          <br></br>
+          <p>To learn more about the application itself, see embedded gifs, and a demonstration of our application, click on the question mark icon</p>
+          <p>To view our code, click on the github icon to  visit our repository</p>
+        </ol>
+        
+    </div>
 
     <h2><iframe src="https://thunkable.site/w/EmLLO35s3OMoNLfuDZf4e" title="Typus" height = 1000 width = 500></iframe></h2>
     
