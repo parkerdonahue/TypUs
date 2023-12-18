@@ -7,6 +7,9 @@
       rel="stylesheet"
       href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css"
     />
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-app.js"></script>
+    <script src="https://www.gstatic.com/firebasejs/9.0.0/firebase-database.js"></script>
+    <script type="module" src="fetch.js"></script>
     <style>
       body {
         background-color: #18191f;
@@ -30,10 +33,8 @@
         display: flex;
         justify-content: center;
         align-items: center;
-        height: 25vh;
-        width: 100vw;
+        width: 100%;
       }
-
       #home {
         font-size: 8em;
         background-color: #18191f;
@@ -50,7 +51,6 @@
           0 0 200px #0072ff;
         animation-delay: 0.1s;
       }
-
       #question {
         font-size: 8em;
         background-color: #18191f;
@@ -67,7 +67,6 @@
           0 0 200px #0072ff;
         animation-delay: 0.1s;
       }
-
       #github {
         font-size: 8em;
         background-color: #18191f;
@@ -92,7 +91,6 @@
           filter: hue-rotate(360deg);
         }
       }
-
       #typusLogo {
         font-size: 8em;
         width: 500px;
@@ -111,13 +109,33 @@
           0 0 200px #0072ff;
         animation-delay: 0.1s;
       }
-
       #div1 {
         margin: 40px;
         text-align: center;
         width: 50%;
         color: #fff;
         word-spacing: 1px;
+      }
+      .div2 {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin: 20px 0;
+      }
+      #leaderboard-container,
+      #images-container {
+        width: 50%;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+      .product-image {
+        max-width: 13%;
+        height: auto;
+        margin: 10px;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
       }
       iframe {
         margin-top: 0px;
@@ -128,15 +146,15 @@
       h3 {
         font-size: 1cm;
         height: auto;
-    }
+      }
     </style>
   </head>
 
   <body>
     <div class="container">
-      <img src="typus.png" id="typusLogo" alt="Typus Logo">
+      <img src="typus.png" id="typusLogo" alt="Typus Logo" />
       <a href="https://parkerdonahue.github.io/TypUs">
-        <i class="fa fa-home" id="home"></i></i>
+        <i class="fa fa-home" id="home"></i>
       </a>
       <a href="https://parkerdonahue.github.io/TypUs/about.html">
         <i class="fa fa-question" id="question"></i>
@@ -145,12 +163,33 @@
         <i class="fa fa-github-square" id="github"></i>
       </a>
     </div>
-    
-    <div id="div1">
-        <H3> About Typus</H3>
-        <p>Typus originated as an idea formed by Ryan Tsang, and was brought to life with the collaboration of Ayman, Ryan, Jonathan and Parker.
-            Typus is a full stack mobile application that utilizes Thunkable as a Front-End and Firebase as a Back-End. The application incorporates our web API's using Firebase Google Cloud Functions for the generation of our Leaderboard and Levenstein.
-      </div>
 
-    </body>
+    <div id="div1">
+      <h3>About Typus</h3>
+      <p>
+        Typus originated as an idea formed by Ryan Tsang, and was brought to
+        life with the collaboration of Ayman, Ryan, Jonathan and Parker. Typus
+        is a full stack mobile application that utilizes Thunkable as a
+        Front-End and Firebase as a Back-End. The application incorporates our
+        web API's using Firebase Google Cloud Functions for the generation of
+        our Leaderboard and Levenstein. Below, you can find our leaderboard,
+        which we pulled out from the Back-End for everyone to view, and also
+        some screenshots of the android devices we tested on.
+      </p>
+    </div>
+
+    <div class="div2">
+      <div id="leaderboard-container">
+        <h3>Leaderboard</h3>
+        <div id="leaderboard"></div>
+      </div>
+      <div id="images-container">
+        <h2>Screenshots on Android Phone/Tablets</h2>
+        <img src="androidsc1.jpg" alt="Android Phone" class="product-image" />
+        <img src="androidsc2.jpg" alt="Android Phone" class="product-image" />
+        <img src="tabletsc1.png" alt="Android Tablet" class="product-image" />
+        <img src="tabletsc2.png" alt="Android Tablet" class="product-image" />
+      </div>
+    </div>
+  </body>
 </html>
