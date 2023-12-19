@@ -1,4 +1,4 @@
-[google HEART grid for Typus]([https://github.com/parkerdonahue/TypUs/blob/27-METRICS/src/Screenshot%202023-10-30%20132816.png](https://github.com/parkerdonahue/TypUs/blob/main/src/Screenshot%202023-10-30%20132816.png)
+[google HEART grid for Typus](https://github.com/parkerdonahue/TypUs/blob/27-METRICS/src/Screenshot%202023-10-30%20132816.png](https://github.com/parkerdonahue/TypUs/blob/main/src/Screenshot%202023-10-30%20132816.png)
 
 - User count
   - By using Google Analytics, we can observe the metrics to determine if the playerbase is enjoying the game. Google Analytics makes it easy to track the number of users as it is one of the default settings to be tracked. If many people are using the app, then the only logical conclusion is that people consider the app a decent way to spend their time and that they are having fun.
