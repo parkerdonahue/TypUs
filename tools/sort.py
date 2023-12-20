@@ -1,4 +1,7 @@
 import json
+from datetime import date
+
+
 
 def read_specs(json_file):
     # Import spec data into a variable   
@@ -54,7 +57,12 @@ if __name__ == "__main__":
     users = read_specs(file)
     # print(users)
     # print("\n\n\n")
-    scores = seperate(users, '12-11-2023')
+    today = date.today()
+    formatted_date = today.strftime("%m-%d-%Y")
+
+    # print("Today's date:", formatted_date)
+
+    scores = seperate(users, formatted_date)
     # for val in scores:
     #     print(val)
     #     print('---')
